@@ -1,5 +1,7 @@
 # MovDex
 
+MovDex is a small project i'm doing to get to grips with Angular JS. It will aggregate movies from IMDB according to the users likes and dislikes. Feel free to contribute!
+
 ## Getting Started
 
 All you need to do is to clone this repository,
